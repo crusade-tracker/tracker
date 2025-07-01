@@ -1,1 +1,20 @@
 
+{
+  "units": [],
+  "currentUnitId": null,
+  "nextUnitId": 1,
+  "armyName": "My Crusade Force",
+  "supplyLimitPoints": 50,
+  "crusadeLevel": "Incursion",
+  "requisitionPoints": 5,
+  "crusadeLog": [],
+  "warlord": null,
+  "rpLedger": [],
+  "crusadeAgendas": [
+    { "name": "Assassinate", "xp": 3, "description": "Destroy a specific enemy CHARACTER unit." },
+    { "name": "Linebreaker", "xp": 2, "description": "Have at least one model from this unit wholly within the enemy deployment zone at the end of the battle." },
+    { "name": "Hold the Line", "xp": 2, "description": "Ensure no enemy units are within your own deployment zone at the end of the battle." }
+  ],
+  "trackByPoints": true,
+  "pointsPerPowerLevel": 20
+}
