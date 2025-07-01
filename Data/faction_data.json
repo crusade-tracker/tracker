@@ -1,1 +1,15 @@
-
+{
+  "Space Marines": {
+    "Ultramarines": { "color": "#0066cc", "traits": ["Courage and Honour", "Tactical Doctrine"] },
+    "Blood Angels": { "color": "#cc0000", "traits": ["Red Thirst", "Black Rage"] },
+    "Dark Angels": { "color": "#006600", "traits": ["Grim Resolve", "Inner Circle"] },
+    "Space Wolves": { "color": "#666666", "traits": ["Savage Fury", "Hunters Unleashed"] },
+    "Imperial Fists": { "color": "#ffcc00", "traits": ["Siege Masters", "Bolter Drill"] },
+    "Iron Hands": { "color": "#333333", "traits": ["The Flesh is Weak", "Machine Empathy"] },
+    "Salamanders": { "color": "#339933", "traits": ["Master Artisans", "Flamecraft"] },
+    "Raven Guard": { "color": "#000000", "traits": ["Shadow Masters", "Swift and Deadly"] },
+    "White Scars": { "color": "#ffffff", "traits": ["Lightning Assault", "Born in the Saddle"] },
+    "Black Templars": { "color": "#000000", "traits": ["No Pity! No Remorse! No Fear!", "Righteous Zeal"] },
+    "Crimson Fists": { "color": "#cc0000", "traits": ["No Matter the Odds", "Bolter Fury"] },
+    "Iron Fists": { "color": "#404040", "traits": ["Siege Warfare", "Stubborn Defiance"] },
+    "Lamenters": { "color": "#ffff00", "
